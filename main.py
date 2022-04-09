@@ -40,4 +40,3 @@
 # # if st.checkbox('Show Image'):
 # #     img = Image.open('yamada.jpg')
 # #     st.image(img, caption='Tetsuto Ymada', use_column_width=True)
-
